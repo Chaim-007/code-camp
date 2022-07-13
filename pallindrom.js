@@ -7,7 +7,6 @@ function Pal(wo){
     if(wo == w2) {
         console.log('It is a pallindrome');
     }
-    else {
         console.log('It is not a pallindrome');
     }
 }
